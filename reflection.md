@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I fully became comfortable with extracting and modifying data through python, and displaying daya through streamlit. I tried to do this assingment without looking at the solutions, which proved difficult, as I struggled with loading up and using the bucket, so I had to serach up how to do that. However, I learned the applicaitons of pivot tables in python, which further improved my skills in the language. 
 
